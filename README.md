@@ -1,5 +1,5 @@
 ### Hello world
-Meu nome é Ronaldo José, atualmente estudando **Desenvolvomento Front End** no Senai, 
+Meu nome é Ronaldo José, atualmente estudando **Desenvolvimento Front End** no Senai, 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonaldoJoseTec&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)

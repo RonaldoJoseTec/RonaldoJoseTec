@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello world
+Meu nome é Ronaldo José, atualmente estudando **Desenvolvomento Front End** no Senai, 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonaldoJoseTec)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RonaldoJoseTec/RonaldoJoseTec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

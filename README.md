@@ -1,8 +1,8 @@
 ### Hello world
 Meu nome é Ronaldo José, atualmente estudando **Desenvolvomento Front End** no Senai, 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonaldoJoseTec)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonaldoJoseTec&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonaldoJoseTec&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 <!--
 **RonaldoJoseTec/RonaldoJoseTec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
